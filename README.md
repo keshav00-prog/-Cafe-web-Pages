@@ -1,6 +1,6 @@
 # -Cafe-web-Pages
  Today I created Cafe website. It was cafe near to beach and ocean. I used only html , css and javascript.
-#screenshot
+# screenshot
 ![Screenshot (2)](https://github.com/user-attachments/assets/a9062aad-910f-4245-a0b2-60896006957a)
 ![Screenshot (3)](https://github.com/user-attachments/assets/407d36fe-327b-4933-82ae-82c4553433f3)
 ![Screenshot (4)](https://github.com/user-attachments/assets/982128ad-597b-4191-9bf9-41731b56ddc3)
