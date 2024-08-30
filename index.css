@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  font-family: "Agbalumo", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{font-family: "Agbalumo", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+/*  fisrt  Navbar */
+img {
+  height: 2vh;
+  width: 1vw;
+  margin: 1px 1px -2px 0;
+}
+.order > ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0 0 1px 28rem;
+}
+.order > ul li {
+  margin-left: 13px;
+}
+.socialicons {
+  display: flex;
+  list-style-type: none;
+}
+.socialicons li {
+}
+.order {
+  display: flex;
+  justify-content: space-around;
+  font-size: 12px;
+}
+.social {
+  background-color: beige;
+}
+/*  second Navbar */
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 12vh;
+  background-color: #0000005c;
+  position: fixed;
+  width: 100%;
+  justify-content: flex-end;
+  margin: 0em 0em 0em -6em;
+  padding: 0rem 3rem;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  font-weight: 550;
+  align-items: baseline;
+}
+
+nav ul li {
+  list-style: none;
+  margin: 0 23px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+nav ul li a:hover {
+  color: #fab005;
+}
+.banner > img {
+  height: 100vh;
+  width: 100%;
+}
+.banner {
+  overflow: hidden;
+}
+/*  first section */
+.about {
+  display: flex;
+  justify-content: space-around;
+  margin: 3rem 2rem;
+  align-items: center;
+  text-decoration: none;
+}
+.sectionsecond {
+  padding: 0 6rem 0 0;
+}
+.special {
+  display: flex;
+  justify-content: space-around;
+  margin: 1rem 0rem;
+  align-items: center;
+  text-decoration: none;
+  background-image: url(images/rrr4.jpg);
+  height: 81vh;
+}
+.item img {
+  height: 36vh;
+  width: 19vw;
+}
+.fooditem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 3rem;
+}
+footer {
+  height: 55vh;
+  background-color: rgba(80, 75, 75, 0.514);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  overflow: hidden;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+input,
+textarea {
+  width: 100%;
+  padding: 9px;
+  margin: 3px -7px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  color: white;
+  background-color: #000000ba;
+}
+.Menu {
+  display: flex;
+    height: 80vh;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(images/background.png);
+    padding: 15px 0;
+}
+
+.Menu-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
